@@ -1,0 +1,7 @@
+c:\users\učenik\source\repos\FibingerBrankoSystem.IO\FibingerBrankoSystem.IO\bin\Debug\FibingerBrankoSystem.IO.exe.config
+c:\users\učenik\source\repos\FibingerBrankoSystem.IO\FibingerBrankoSystem.IO\bin\Debug\FibingerBrankoSystem.IO.exe
+c:\users\učenik\source\repos\FibingerBrankoSystem.IO\FibingerBrankoSystem.IO\bin\Debug\FibingerBrankoSystem.IO.pdb
+c:\users\učenik\source\repos\FibingerBrankoSystem.IO\FibingerBrankoSystem.IO\obj\Debug\FibingerBrankoSystem.IO.csprojResolveAssemblyReference.cache
+c:\users\učenik\source\repos\FibingerBrankoSystem.IO\FibingerBrankoSystem.IO\obj\Debug\FibingerBrankoSystem.IO.csproj.CoreCompileInputs.cache
+c:\users\učenik\source\repos\FibingerBrankoSystem.IO\FibingerBrankoSystem.IO\obj\Debug\FibingerBrankoSystem.IO.exe
+c:\users\učenik\source\repos\FibingerBrankoSystem.IO\FibingerBrankoSystem.IO\obj\Debug\FibingerBrankoSystem.IO.pdb
